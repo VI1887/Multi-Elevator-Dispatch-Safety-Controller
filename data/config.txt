@@ -1,0 +1,6 @@
+# Startup configuration for the Multi-Elevator Dispatch & Safety Controller
+# This is the ONLY file the program reads. Everything else (car floors,
+# sensor readings, target-floor requests) is entered live when it runs.
+numCars=2
+numFloors=11
+maxTargets=10
