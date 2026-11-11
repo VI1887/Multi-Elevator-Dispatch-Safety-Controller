@@ -1,0 +1,2 @@
+car=1 floor=5 : elevator stopped at floor
+car=1 floor=8 : elevator stopped at floor

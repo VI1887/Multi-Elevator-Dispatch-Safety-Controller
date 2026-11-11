@@ -1,0 +1,12 @@
+===== Simulation Summary =====
+Target-floor requests and dispatch outcome:
+  Floor  5 (UP) : Elevator 1 (travelled 0 floor(s) to reach it)
+  Floor  8 (DOWN) : Elevator 1 (travelled 3 floor(s) to reach it)
+
+Floor traffic:
+  Floor  5 : 1 visit(s)
+  Floor  8 : 1 visit(s)
+
+Safety overrides triggered:
+  fire alarm       : 1 time(s)
+===============================
