@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# IDE and Editor folders
+.vscode/
+.idea/
+
+# Project-specific extensionless binaries (Linux/WSL)
+elevator_sim
+test_runner
